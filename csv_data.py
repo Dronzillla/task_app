@@ -1,8 +1,6 @@
 from pathlib import Path
 import csv
 
-from dates import from_str_to_date, from_str_to_time
-
 
 def check_file_exists(fname: str) -> bool:
     # get current cwd

@@ -1,4 +1,4 @@
-id,task,priority,deadline,time
-1,"Do breakfast",2,2024-02-24,13:00
-2,"Go to gym",2,2024-02-24,17:00
-3,"Go for a walk",3,2024-02-24,16:00
+id,content,priority,deadline
+1,"Do breakfast",2,2024-02-24 13:00
+2,"Go to gym",2,2024-02-24 17:00
+3,"Go for a walk",3,2024-02-24 16:00
